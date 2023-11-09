@@ -1,0 +1,1 @@
+If running localy make sure to have Nvidia GPU avaiibale with drivers installed, as well as CUDA toolkit and cuDNN library for your GPU.
